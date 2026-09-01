@@ -1,0 +1,9 @@
+theme: jekyll-theme-minima
+
+title: "Polarity-resolved imaging reveals active transport in catalytic Janus nanomotors"
+description: "Code and data for the associated ChemRxiv manuscript."
+
+url: "https://jamalilab.github.io"
+baseurl: "/Catalytic_Janus_Nanomotor"
+
+show_downloads: false
