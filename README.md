@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="Janus.jpg" alt="Catalytic Janus nanomotors" width="100%">
+</p>
+
 # Polarity-resolved imaging reveals active transport in catalytic Janus nanomotors
 
 This repository contains the Jupyter notebook used to reproduce the trajectory, transport, and polarity-resolved analyses associated with the ChemRxiv manuscript:
